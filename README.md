@@ -12,7 +12,7 @@ A clean, responsive single-page portfolio built with **HTML + CSS + JavaScript**
 <image src="assets/mini-portfolio7.png">Preview</image>
 
 ## Demo
-<video src="assets/mini-portfolio.mp4">Demo</video>
+[! Watch Demo](assets/mini-portfolio.mp4)
 
 ## Features
 
