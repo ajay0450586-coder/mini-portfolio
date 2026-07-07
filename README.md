@@ -2,6 +2,18 @@
 
 A clean, responsive single-page portfolio built with **HTML + CSS + JavaScript**.
 
+## Preview
+<image src="assets/mini-portfolio1.png">Preview</image>
+<image src="assets/mini-portfolio2.png">Preview</image>
+<image src="assets/mini-portfolio3.png">Preview</image>
+<image src="assets/mini-portfolio4.png">Preview</image>
+<image src="assets/mini-portfolio5.png">Preview</image>
+<image src="assets/mini-portfolio6.png">Preview</image>
+<image src="assets/mini-portfolio7.png">Preview</image>
+
+## Demo
+<video src="assets/mini-portfolio.mp4">Demo</video>
+
 ## Features
 
 - Fixed navigation header with blur background
