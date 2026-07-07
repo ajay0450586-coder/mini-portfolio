@@ -11,8 +11,10 @@ A clean, responsive single-page portfolio built with **HTML + CSS + JavaScript**
 <image src="assets/mini-portfolio6.png">Preview</image>
 <image src="assets/mini-portfolio7.png">Preview</image>
 
-## Demo
-[[!Demo](./assets/mini-portfolio.png)](./assets/mini-portfolio.mp4)
+
+## 🎥 Demo
+
+[![Watch Demo](./assets/mini-portfolio1.png)](./assets/mini-portfolio.mp4)
 
 ## Features
 
